@@ -1,15 +1,15 @@
 [package]
 authors = ["Bernardo Meurer <meurerbernardo@gmail.com>"]
 description = "A library for finding your L1/L2/L3 cache sizes "
-version = "0.6.0"
+version = "0.6.1"
 
 categories = ["hardware-support", "memory-management"]
 edition = "2018"
 keywords = ["memory", "performance", "line", "size", "cache"]
 license = "BSD-3-Clause"
-name = "cache-size"
+name = "cache-size2"
 readme = "./README.md"
-repository = "https://github.com/lovesegfault/cache-size"
+repository = "https://github.com/supercilex/cache-size"
 
 [badges]
 maintenance = { status = "actively-developed" }
